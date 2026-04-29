@@ -14,7 +14,7 @@ Sou **Técnico em Informática** formado pelo **CEFET-RJ (Campus Nova Iguaçu)**
 ### 🛠️ Tecnologias e Habilidades
 
 **Linguagens de Programação e Web:**
-- **Foco:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+- **Foco:** ![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)) ![PHP]([https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white](https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000))
 - **Conhecimento em:** C, C++, C#, Java, JavaScript, HTML5 e CSS3.
 
 **Infraestrutura e Hardware:**
@@ -34,7 +34,7 @@ Sou **Técnico em Informática** formado pelo **CEFET-RJ (Campus Nova Iguaçu)**
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [www.linkedin.com/in/leandro-machado](www.linkedin.com/in/leandro-machado-75b0682a5)
+- **LinkedIn:** [www.linkedin.com/in/leandro-machado-75b0682a5](www.linkedin.com/in/leandro-machado-75b0682a5)
 - **E-mail:** [lepflamasp1@gmail.com](mailto:lepflamasp1@gmail.com)
 
 ---
