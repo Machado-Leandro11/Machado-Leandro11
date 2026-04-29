@@ -14,7 +14,7 @@ Sou **Técnico em Informática** formado pelo **CEFET-RJ (Campus Nova Iguaçu)**
 ### 🛠️ Tecnologias e Habilidades
 
 **Linguagens de Programação e Web:**
-- **Foco:** ![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)) ![PHP]([https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white](https://img.icons8.com/?size=100&id=f0R4xVI4Sc8O&format=png&color=000000))
+- **Foco:** ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB1?style=plastic&logo=php&logoColor=white)
 - **Conhecimento em:** C, C++, C#, Java, JavaScript, HTML5 e CSS3.
 
 **Infraestrutura e Hardware:**
